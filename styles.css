@@ -2,7 +2,7 @@
 /* Your CSS Code here. */
 
 main{
-	text-decoration:underline;
+	
 	width:200px;
 	background-color:purple;
 	border-left:5px solid green;
@@ -11,4 +11,5 @@ main{
 #heading{
 	font-size:20px;
 	color:white;
+	text-decoration:underline;
 }
