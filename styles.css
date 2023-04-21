@@ -1,13 +1,12 @@
 
 /* Your CSS Code here. */
-.main{
-	width:200px;
-	background-color:purple;
-	border-left:5px solid green;
-	padding:10px;
-}
+
 p{
 	color:white;
 	font-size:20px;
 	text-decoration:underline;
+	width:200px;
+	background-color:purple;
+	border-left:5px solid green;
+	padding:10px;
 }
