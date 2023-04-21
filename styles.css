@@ -6,9 +6,9 @@ main{
 	background-color:rgb(128,0,128);
 	border-left:5px solid green;
 	padding:10px;
+	color:white;
 }
 #heading{
 	font-size:20px;
-	color:white;
 	text-decoration:underline;
 }
